@@ -1,0 +1,1 @@
+new-adgroup -name "Security_SSO_Emreach" -SamAccountName "Security_SSO_Emreach" -GroupCategory Security -GroupScope Global -DisplayName "Security_SSO_Emreach" -Path "OU=Azure,OU=Cloud,DC=bravurasolutions,DC=local" -Description "Linked to the Azure Enterprise App Emreach"
