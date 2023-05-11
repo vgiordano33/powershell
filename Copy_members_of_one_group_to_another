@@ -1,0 +1,1 @@
+Add-ADGroupMember -Identity 'targetgroup' -Members (Get-ADGroupMember -Identity 'sourcegroup' -Recursive)
